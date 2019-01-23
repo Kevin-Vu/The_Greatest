@@ -1,10 +1,18 @@
 # TheGreatest
-Projet de C++ / Piège à cons
+[![CircleCI](https://circleci.com/gh/Kevin-Vu/The_Greatest.svg?style=shield)](https://circleci.com/gh/Kevin-Vu/The_Greatest)
 
-#Installation de la library SFML:
+## Installation
+Please install the following librairy:
+```bash
+sudo apt-get install libsfml-dev
+```
 
-	sudo apt-get install libsfml-dev
+## Compiling and testing
+```bash
+make
+make test
+```
 
-#Lancement du programme:
-Taper "make" sur le terminal pour compiler le programme et
-"make test" pour le lancer
+## Contributors
+**Souleymane Toure** : [Github](https://github.com/Souleymane-T)  
+**Kévin Vu** : [Github](https://github.com/Kevin-Vu)  
