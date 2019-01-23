@@ -10,7 +10,7 @@ jobs:
           command: 'apt-get update -y'    
       - run: 
           name: Install SFML
-          command: 'apt-get install libsfml-dev'
+          command: 'apt-get install libsfml-dev -y'
           
 workflows:
   version: 2
