@@ -8,6 +8,9 @@ jobs:
       - run: 
           name: Install SFML
           commmand: 'sudo apt-get install libsfml-dev'
+      - run:
+          name: Compiling project
+          command: 'make'
           
 workflows:
   version: 2
