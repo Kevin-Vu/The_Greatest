@@ -5,6 +5,9 @@ jobs:
       - image: "debian:stretch"
     steps:
       - checkout
+      - run:
+          name: Update libraries
+          command: 'apt-get update'    
       - run: 
           name: Install SFML
           command: 'apt-get install libsfml-dev'
