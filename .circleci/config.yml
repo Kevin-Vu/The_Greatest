@@ -5,16 +5,13 @@ jobs:
       - image: "debian:stretch"
     steps:
       - checkout
-      - run: echo marc
-  test:
-    docker:
-      - image: "debian:stretch"
-    steps:
-      - checkout
-      - run: echo marc
+      - run: 
+          name: Install SFML
+          commmand: 'sudo apt-get install libsfml-dev'
+          
 workflows:
   version: 2
-  build_and_test:
+  build:
     jobs:
       - build
       - test
