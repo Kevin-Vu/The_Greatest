@@ -16,5 +16,5 @@ make test
 ```
 
 ## Contributors
-**Souleymane Toure** : [Github](https://github.com/Souleymane-T)  
+**Souleymane Touré** : [Github](https://github.com/Souleymane-T)  
 **Kévin Vu** : [Github](https://github.com/Kevin-Vu)  
