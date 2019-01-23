@@ -10,7 +10,7 @@ jobs:
           commmand: 'sudo apt-get install libsfml-dev'
       - run:
           name: Compiling project
-          command: 'make'
+          command: pwd
           
 workflows:
   version: 2
