@@ -7,7 +7,7 @@ jobs:
       - checkout
       - run: 
           name: Install SFML
-          command: 'sudo apt-get install libsfml-dev'
+          command: 'apt-get install libsfml-dev'
       - run:
           name: Compiling project
           command: pwd
