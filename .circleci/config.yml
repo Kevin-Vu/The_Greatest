@@ -8,9 +8,7 @@ jobs:
       - run:
           name: Update libraries
           command: 'apt-get update -y'    
-      - run: 
-          name: Install SFML
-          command: 'apt-get install libsfml-dev'
+
       - run:
           name: Compiling project
           command: pwd
