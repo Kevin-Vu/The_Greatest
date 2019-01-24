@@ -9,9 +9,9 @@ Control Trump in its Trump Tower and fight against Hillary in order to win the e
 
 ----
 
-## Getting Starter
+## Getting Started
 ## Installation
-In order to compile this project, pPlease install the following librairy : **smfl**.
+In order to compile this project, pPlease install the following librairy : **sfml**.
 ```bash
 $ sudo apt-get install libsfml-dev
 ```
