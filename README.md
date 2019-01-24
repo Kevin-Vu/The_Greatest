@@ -27,4 +27,4 @@ $ make test
 **Kévin Vu** : [Github](https://github.com/Kevin-Vu)  
 
 ## Sample images
-![sample1](img/sample1.jpg =100x100)
+![sample1](img/sample1.jpg | width=50)
