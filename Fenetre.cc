@@ -23,7 +23,7 @@ Fenetre::Fenetre()
     mfont.loadFromFile("font/FSEX300.ttf"); // Police de caractère 
     mtext.setFont(mfont);
     mtext.setCharacterSize(16);
-    mtext.setColor(sf::Color::Black);
+    mtext.setFillColor(sf::Color::Black);
     mtext.setPosition(sf::Vector2f(45,400));
     ///////////////////
 
