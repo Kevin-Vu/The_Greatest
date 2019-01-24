@@ -44,9 +44,9 @@ Fenetre::Fenetre()
     mPV.setCharacterSize(19);
     mtemps.setCharacterSize(19);
 
-    mnom.setColor(sf::Color::White);
-    mPV.setColor(sf::Color::White);
-    mtemps.setColor(sf::Color::White);
+    mnom.setFillColor(sf::Color::White);
+    mPV.setFillColor(sf::Color::White);
+    mtemps.setFillColor(sf::Color::White);
 
     mnom.setPosition(sf::Vector2f(50,10));
     mPV.setPosition(sf::Vector2f(200,10));
@@ -70,9 +70,9 @@ Fenetre::Fenetre()
     mtempsd.setCharacterSize(19);
     mPVnum.setCharacterSize(19);
 
-    mscore.setColor(sf::Color::White);
-    mtempsd.setColor(sf::Color::White);
-    mPVnum.setColor(sf::Color::White);
+    mscore.setFillColor(sf::Color::White);
+    mtempsd.setFillColor(sf::Color::White);
+    mPVnum.setFillColor(sf::Color::White);
 
     mscore.setPosition(sf::Vector2f(50,40));
     mtempsd.setPosition(sf::Vector2f(400,40));
@@ -89,9 +89,9 @@ Fenetre::Fenetre()
     mstat_bonus.setCharacterSize(15);
     mstat_bull.setCharacterSize(15);
 
-    mstat_malus.setColor(sf::Color::Black);
-    mstat_bonus.setColor(sf::Color::Black);
-    mstat_bull.setColor(sf::Color::Black);
+    mstat_malus.setFillColor(sf::Color::Black);
+    mstat_bonus.setFillColor(sf::Color::Black);
+    mstat_bull.setFillColor(sf::Color::Black);
 
     mstat_malus.setPosition(sf::Vector2f(30,390));
     mstat_bonus.setPosition(sf::Vector2f(30,420));
