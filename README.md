@@ -28,3 +28,4 @@ $ make test
 
 ## Sample images
 ![sample1](img/sample1.jpg | width=50)
+<img src="img/sample1/png" width="50">
