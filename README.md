@@ -4,7 +4,7 @@ Control Trump in its Trump Tower and fight against Hillary in order to win the e
 (No political opinion here, just for fun)
 
 [![CircleCI](https://circleci.com/gh/Kevin-Vu/The_Greatest.svg?style=shield)](https://circleci.com/gh/Kevin-Vu/The_Greatest)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b4995ba377b7447983b61940de30ae99)](https://www.codacy.com/app/Kevin-Vu/The_Greatest?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Kevin-Vu/The_Greatest&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/644acca2a28f4003a0f804f07e67e741)](https://www.codacy.com/gh/Kevin-Vu/The_Greatest/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Kevin-Vu/The_Greatest&amp;utm_campaign=Badge_Grade)
 ![Version](https://img.shields.io/badge/thegreatest-v1.0.0-blue.svg)
  
 ----
