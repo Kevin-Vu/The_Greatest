@@ -1,6 +1,6 @@
 # TheGreatest
 ## C++ Game
-Control Trump in its Trump Tower and fight against Hillary in order to win the election.
+Control Trump inside his Trump Tower and fight against Hillary in order to win the election.
 (No political opinion here, just for fun)
 
 [![CircleCI](https://circleci.com/gh/Kevin-Vu/The_Greatest.svg?style=shield)](https://circleci.com/gh/Kevin-Vu/The_Greatest)
