@@ -13,7 +13,7 @@ Control Trump inside his Trump Tower and fight against Hillary in order to win t
 ## Installation
 In order to compile this project, please install the following librairy : **sfml**.
 ```bash
-$ sudo apt-get install libsfml-dev
+$ sudo apt-get install libsfml-dev 
 ```
 
 ## Compiling and testing/playing
